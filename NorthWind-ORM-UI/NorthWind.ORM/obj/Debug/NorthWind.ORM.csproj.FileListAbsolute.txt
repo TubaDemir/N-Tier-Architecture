@@ -1,0 +1,10 @@
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.ORM\bin\Debug\NorthWind.ORM.dll
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.ORM\bin\Debug\NorthWind.ORM.pdb
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.ORM\obj\Debug\NorthWind.ORM.csprojAssemblyReference.cache
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.ORM\obj\Debug\NorthWind.ORM.csproj.CoreCompileInputs.cache
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.ORM\obj\Debug\NorthWind.ORM.dll
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.ORM\obj\Debug\NorthWind.ORM.pdb
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.ORM\bin\Debug\NorthWind.ORM.dll
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.ORM\bin\Debug\NorthWind.ORM.pdb
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.ORM\obj\Debug\NorthWind.ORM.dll
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.ORM\obj\Debug\NorthWind.ORM.pdb

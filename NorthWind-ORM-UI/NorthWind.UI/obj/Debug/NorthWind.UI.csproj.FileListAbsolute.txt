@@ -1,0 +1,26 @@
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.UI\bin\Debug\NorthWind.UI.exe.config
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.UI\bin\Debug\NorthWind.UI.exe
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.UI\bin\Debug\NorthWind.UI.pdb
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.UI\bin\Debug\NorthWind.ORM.dll
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.UI\bin\Debug\NorthWind.ORM.pdb
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.csprojAssemblyReference.cache
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.Form1.resources
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.Form2.resources
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.Properties.Resources.resources
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.csproj.GenerateResource.cache
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.csproj.CoreCompileInputs.cache
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.csproj.CopyComplete
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.exe
+E:\Ayvansaray Universitesi\Benim Projelerim\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.pdb
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.UI\bin\Debug\NorthWind.UI.exe.config
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.exe
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.pdb
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.UI\bin\Debug\NorthWind.UI.exe
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.UI\bin\Debug\NorthWind.UI.pdb
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.UI\bin\Debug\NorthWind.ORM.dll
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.UI\bin\Debug\NorthWind.ORM.pdb
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.Form1.resources
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.Form2.resources
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.Properties.Resources.resources
+C:\Users\user\Downloads\NorthWind-ORM-UI\NorthWind-ORM-UI\NorthWind.UI\obj\Debug\NorthWind.UI.csproj.GenerateResource.Cache
